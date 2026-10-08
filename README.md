@@ -190,7 +190,5 @@ They were used to:
 - understand Dockerfiles and Docker Compose
 - debug configuration and networking errors
 - understand NGINX, MariaDB and PHP-FPM configuration
-- review scripts and configuration files
-- help prepare project documentation
 
 All generated suggestions were reviewed, tested and adapted before being included in the project.
